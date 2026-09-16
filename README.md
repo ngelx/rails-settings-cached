@@ -522,3 +522,7 @@ end
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - 2.x
 
 And more than [1K repositories](https://github.com/huacnlee/rails-settings-cached/network/dependents) used.
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to set up a development environment, run the test suite and submit a pull request.

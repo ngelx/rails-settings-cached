@@ -3,7 +3,7 @@
 #   docker compose build
 #   docker compose run --rm test
 #
-# See DEVELOPMENT for more examples.
+# See CONTRIBUTING.md for more examples.
 ARG RUBY_VERSION=3.4
 FROM ruby:${RUBY_VERSION}-slim
 
